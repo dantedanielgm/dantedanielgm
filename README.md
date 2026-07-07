@@ -24,7 +24,7 @@ Self-taught builder focused on **agentic AI**: systems where an LLM reasons, use
 
 **[stash-presupuesto](https://github.com/dantedanielgm/stash-presupuesto)** — 50/30/20 envelope-budgeting app. Live PWA, works on phone and desktop → [try it](https://dantedanielgm.github.io/stash-presupuesto/).
 
-**[pai-framework](https://github.com/dantedanielgm/pai-framework)** — A framework for building specialized personal AI agents on top of Claude Code. One assistant for every area of your life.
+**[expert-agent](https://github.com/dantedanielgm/expert-agent)** — A personal expert agent for Claude Code: expert in your field, engineer underneath, and it teaches you how to work with it. A synthesis of the best agent-engineering practices.
 
 ---
 
